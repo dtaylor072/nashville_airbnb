@@ -1,2 +1,2 @@
-# nashville_airbnb
-Predicting Airbnb Listing Prices in Nashville, TN
+# Nashville Airnbn
+Predicting Airbnb Listing Prices in Nashville, TN with various regression techniques (Ridge, LASSO, Random Forest, XGBoost). 
